@@ -21,3 +21,5 @@
   /** 碰到bug之前编写的代码 */
   const str = 'hello world'
 ```
+
+# 小伙伴A修改的内容
