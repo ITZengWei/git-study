@@ -17,3 +17,7 @@
 
 ## 在issue上修改错误
 
+```JavaScript
+  /** 碰到bug之前编写的代码 */
+  const str = 'hello world'
+```
