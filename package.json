@@ -1,0 +1,23 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "description": "## 修改 ## 再次修改",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITZengWei/git-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITZengWei/git-study/issues"
+  },
+  "homepage": "https://github.com/ITZengWei/git-study#readme",
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  }
+}
